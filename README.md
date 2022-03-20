@@ -1,5 +1,6 @@
 # Hello, It's me Nilesh Maharjan
-## A Fullstack Web Developer and AI Software Developer :sunglasses: :nerd_face: 
+
+I'm Nilesh Maharjan, a Research Assisttant and a Full Stack Web Developer. I spend most of the time infront of a computer screen.
 
 
  [![Linkedin Badge](https://img.shields.io/badge/-nilesh-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-maharjan-10381168/) [![Instagram Badge](https://img.shields.io/badge/-nilesh_maharjan14-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nilesh_maharjan14/) [![Mail Badge](https://img.shields.io/badge/-nilesh%20maharjan-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mjn.nilesh@gmail.com)
@@ -41,3 +42,8 @@
       <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/></a> 
       <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
 </p>
+
+### Github Stats
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Nileshmaharjan&count_private=true&theme=tokyonight)
+
