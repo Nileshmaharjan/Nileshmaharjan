@@ -1,6 +1,6 @@
 # Hello, 안녕하세요 !!
 
-I'm Nilesh Maharjan, a Research Assisttant and a Full Stack Web Developer. I spend most of the time infront of a computer screen.
+I'm Nilesh Maharjan, a Research Assistant and a Full Stack Web Developer. I spend most of the time infront of a computer screen.
 
 
  [![Linkedin Badge](https://img.shields.io/badge/-nilesh-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-maharjan-10381168/) [![Instagram Badge](https://img.shields.io/badge/-nilesh_maharjan14-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nilesh_maharjan14/) [![Mail Badge](https://img.shields.io/badge/-nilesh%20maharjan-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mjn.nilesh@gmail.com)
