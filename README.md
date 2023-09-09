@@ -42,7 +42,3 @@ I'm Nilesh Maharjan, a Research Assistant and a Full Stack Web Developer. I spen
       <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
 </p>
 
-### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Nileshmaharjan&count_private=true&theme=tokyonight)
-
