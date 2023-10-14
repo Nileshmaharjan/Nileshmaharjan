@@ -1,6 +1,6 @@
 # Hello, 안녕하세요 !!
 
-I'm Nilesh Maharjan, a Research Assistant and a Full Stack Web Developer. I spend most of the time infront of a computer screen.
+I'm Nilesh Maharjan, a Machine Learning Researcher. I spend most of the time infront of a computer screen.
 
 
  [![Linkedin Badge](https://img.shields.io/badge/-nilesh-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-maharjan-10381168/) [![Instagram Badge](https://img.shields.io/badge/-nilesh_maharjan14-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nilesh_maharjan14/) [![Mail Badge](https://img.shields.io/badge/-nilesh%20maharjan-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mjn.nilesh@gmail.com)
@@ -14,7 +14,7 @@ I'm Nilesh Maharjan, a Research Assistant and a Full Stack Web Developer. I spen
 ### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 [![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Python Badge](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&labelColor=black&logo=python)](#)
 
 
