@@ -15,7 +15,7 @@ I'm Nilesh Maharjan, a Machine Learning Researcher. I spend most of the time inf
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![PostgresSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&labelColor=black&logo=python)](#) [![NodeJS Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+[![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![PostgresSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&labelColor=black&logo=python)](#) [![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 
 
 ## Languages and Tools
