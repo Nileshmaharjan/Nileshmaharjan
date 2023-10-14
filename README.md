@@ -14,7 +14,9 @@ I'm Nilesh Maharjan, a Machine Learning Researcher. I spend most of the time inf
 ### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+
+[![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+
 [![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Python Badge](https://img.shields.io/badge/-PYTHON-9cf?style=for-the-badge&labelColor=black&logo=python)](#)
 
 
