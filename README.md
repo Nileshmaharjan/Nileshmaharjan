@@ -5,10 +5,12 @@ I'm Nilesh Maharjan, a Machine Learning Researcher. I spend most of the time inf
 
  [![Linkedin Badge](https://img.shields.io/badge/-nilesh-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-maharjan-10381168/) [![Instagram Badge](https://img.shields.io/badge/-nilesh_maharjan14-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nilesh_maharjan14/) [![Mail Badge](https://img.shields.io/badge/-nilesh%20maharjan-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mjn.nilesh@gmail.com)
  
-- 🔭 I’m currently working in Changwon National University as a Research Assistant.
-- 🤔 My interests are machine learning, data analysis, deep learning, computer vision, web development and DevOps.
-- 📫 How to reach me: mjn.nilesh@gmail.com
-- ✌  Some people want it to happen, some people wish it would happen, others make it happen.
+🔭 I’m currently working as an MLOps Engineer and Machine Learning Researcher in Seoul, South Korea.
+🌱 My expertise lies in scalable model pipelines, real-time inference systems, deep learning optimization, and MLOps workflows.
+🤖 My interests include software development, cloud-native solutions, machine learning, computer vision, MLOps,and data analysis.
+📫 Feel free to reach me at: mjn.nilesh@gmail.com
+🛠️ Proficient with technologies like Python, TensorFlow, PyTorch, Node.js, Docker, AWS Cloud, Triton Inference Server, and CI/CD tools.
+✌ Favorite Quote: "Some people want it to happen, some wish it would happen, others make it happen." — Michael Jordan
 
 
 ### Top Technologies
